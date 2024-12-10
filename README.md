@@ -1,6 +1,7 @@
 # Berkeley_Practical_Application-1
 
-Write up analysis for practical application 1
+Write up analysis for practical application 1.
+
 There are 26 columns in the Coupons dataset.
 I was able to visualize the missing data as a heatmap and it looks like the field - Car has the most missing values and this can be deleted from the dataset without having any impact to the analysis.
 car                     12576
