@@ -99,6 +99,7 @@ Visualization for these codes has been provided in the python notebook.
 **Next Steps**
 
 **Actionable Items**
+
 **1. Target Frequent Visitors:** Marketing campaigns should focus on individuals who frequently visit bars and coffee houses. Personalized offers and loyalty programs can be designed to attract these customers. For example, providing exclusive discounts or rewards for frequent visitors can encourage repeat business.
 
 **2. Age-Specific Promotions:** Create age-specific promotions targeting older drivers who are regular visitors to bars and coffee houses. These promotions can be tailored to their preferences and habits. For instance, offering special deals during times when older customers are more likely to visit can increase coupon acceptance.
