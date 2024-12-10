@@ -55,13 +55,13 @@ Acceptance rate for drivers who go to cheap restaurants more than 4 times a mont
 
 Based on the observations, we can hypothesize several factors that influence whether drivers accept bar coupons:
 
-Frequency of Bar Visits: Drivers who visit bars more frequently (more than 3 times a month) are significantly more likely to accept bar coupons (76.88%) compared to those who visit bars less frequently (37.06%). This suggests that familiarity and habitual behavior play a crucial role in coupon acceptance.
+**Frequency of Bar Visits:** Drivers who visit bars more frequently (more than 3 times a month) are significantly more likely to accept bar coupons (76.88%) compared to those who visit bars less frequently (37.06%). This suggests that familiarity and habitual behavior play a crucial role in coupon acceptance.
 
-Age Factor: Drivers over the age of 25 who go to bars more than once a month have a higher acceptance rate (69.52%) compared to all other drivers (33.44%). This indicates that older drivers who are regular bar-goers are more inclined to accept bar coupons.
+**Age Factor:** Drivers over the age of 25 who go to bars more than once a month have a higher acceptance rate (69.52%) compared to all other drivers (33.44%). This indicates that older drivers who are regular bar-goers are more inclined to accept bar coupons.
 
-Passenger and Occupation Influence: Drivers who go to bars more than once a month, have passengers that are not kids, and have occupations other than farming, fishing, or forestry show a higher acceptance rate (68.79%) compared to all other drivers (29.35%). This suggests that the presence of adult passengers and certain occupational backgrounds may positively influence coupon acceptance.
+**Passenger and Occupation Influence:** Drivers who go to bars more than once a month, have passengers that are not kids, and have occupations other than farming, fishing, or forestry show a higher acceptance rate (68.79%) compared to all other drivers (29.35%). This suggests that the presence of adult passengers and certain occupational backgrounds may positively influence coupon acceptance.
 
-Combined Factors:
+**Combined Factors:**
 
 Drivers who go to bars more than once a month, have passengers that are not kids, and are not widowed have an acceptance rate of 62.21%.
 Drivers who go to bars more than once a month and are under the age of 30 have an acceptance rate of 62.81%.
@@ -86,11 +86,11 @@ Acceptance rate for all other drivers: 34.62%
 
 Based on these observations, we can hypothesize several factors that influence whether drivers accept Coffee House coupons:
 
-Frequency of Coffee House Visits: Drivers who visit coffee houses more frequently (more than 3 times a month) are significantly more likely to accept coffee house coupons (67.50%) compared to those who visit less frequently (44.94%). This suggests that habitual behavior and familiarity with coffee houses play a crucial role in coupon acceptance.
+**Frequency of Coffee House Visits:** Drivers who visit coffee houses more frequently (more than 3 times a month) are significantly more likely to accept coffee house coupons (67.50%) compared to those who visit less frequently (44.94%). This suggests that habitual behavior and familiarity with coffee houses play a crucial role in coupon acceptance.
 
-Age Factor: Drivers over the age of 25 who go to coffee houses more than once a month have a higher acceptance rate (63.84%) compared to all other drivers (42.67%). This indicates that older drivers who are regular coffee house-goers are more inclined to accept coffee house coupons.
+**Age Factor:** Drivers over the age of 25 who go to coffee houses more than once a month have a higher acceptance rate (63.84%) compared to all other drivers (42.67%). This indicates that older drivers who are regular coffee house-goers are more inclined to accept coffee house coupons.
 
-Passenger and Occupation Influence: Drivers who go to coffee houses more than once a month, have passengers that are not kids, and have occupations other than farming, fishing, or forestry show a higher acceptance rate (66.02%) compared to all other drivers (34.62%). This suggests that the presence of adult passengers and certain occupational backgrounds may positively influence coupon acceptance.
+**Passenger and Occupation Influence:** Drivers who go to coffee houses more than once a month, have passengers that are not kids, and have occupations other than farming, fishing, or forestry show a higher acceptance rate (66.02%) compared to all other drivers (34.62%). This suggests that the presence of adult passengers and certain occupational backgrounds may positively influence coupon acceptance.
 
 **Hypothesis**
 Drivers who are regular coffee house-goers, especially those over the age of 25, with adult passengers, and certain occupational backgrounds, are more likely to accept coffee house coupons. Additionally, the frequency of visits and contextual factors (such as age, passenger type, and occupation) significantly influence coupon acceptance.
