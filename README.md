@@ -100,8 +100,11 @@ Visualization for these codes has been provided in the python notebook.
 
 **Actionable Items**
 **1. Target Frequent Visitors:** Marketing campaigns should focus on individuals who frequently visit bars and coffee houses. Personalized offers and loyalty programs can be designed to attract these customers. For example, providing exclusive discounts or rewards for frequent visitors can encourage repeat business.
+
 **2. Age-Specific Promotions:** Create age-specific promotions targeting older drivers who are regular visitors to bars and coffee houses. These promotions can be tailored to their preferences and habits. For instance, offering special deals during times when older customers are more likely to visit can increase coupon acceptance.
+
 **3. Consider Passenger and Occupation:** Develop marketing strategies that consider the presence of adult passengers and the driver's occupation. For example, offers can be designed for professionals who are likely to visit bars or coffee houses after work. For example, offers can be designed for professionals who are likely to visit bars or coffee houses after work. Additionally, promoting family-friendly environments for coffee houses can attract drivers with adult passengers. 
+
 **4. Combined Marketing Strategies:** Implement combined marketing strategies that consider multiple factors such as age, frequency of visits, passenger type, and occupation. This holistic approach can increase the effectiveness of coupon campaigns. For instance, targeting younger drivers who frequently visit inexpensive restaurants and have lower incomes with special offers can boost coupon acceptance.
 
 
